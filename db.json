@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 17
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": 19
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 6,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Bob B",
+      "image": "https://i.pinimg.com/originals/f5/4d/ce/f54dced565322fff6c495d985b9403a6.jpg",
+      "id": 9,
+      "likes": 0
+    },
+    {
+      "name": "Tøydokke Anna",
+      "image": "https://kollokvium.files.wordpress.com/2012/01/toydokkeanna.jpg?w=1000",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
